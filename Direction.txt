@@ -1,0 +1,2 @@
+1. Open pycharm to run sarver.py which is in sarver
+2. Then go to the UI file and run app.html then drug and enjoy it
